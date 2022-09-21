@@ -1,0 +1,10 @@
+0404B
+Data inference 
+Fall 2021
+Martin
+Adebayo, Courage, Faustin
+S1000:George Williams:50:90:70:89:60
+S1002:Elaine Hazimana:40:82:65:92:66
+S1003:Peter Pathos:60:95:88:99:10
+S1005:Celestine Taylor:70:90:70:95:91
+S1006:Khalil Abdi:95:86:78:99:89

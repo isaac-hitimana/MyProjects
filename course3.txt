@@ -1,0 +1,10 @@
+18751 RW
+Applied Stochastic Processes 
+Fall 2021
+Busogi
+Fikita, Nikita, Vikita
+S1000:George Williams:80:82:75:92:86
+S1002:Elaine Hazimana:70:90:70:95:91
+S1003:Peter Pathos:60:95:88:99:100
+S1005:Celestine Taylor:85:86:78:99:89
+S1006:Khalil Abdi:80:90:70:99:60
